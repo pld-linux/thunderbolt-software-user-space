@@ -2,7 +2,7 @@ Summary:	User-space components for handling Thunderbolt controller and devices
 Summary(pl.UTF-8):	Komponenty przestrzeni użytkownika do obsługi kontrolerów i urządzeń Thunderbolt
 Name:		thunderbolt-software-user-space
 Version:	0.9.3
-Release:	3
+Release:	4
 License:	BSD
 Group:		Libraries
 #Source0Download: https://github.com/01org/thunderbolt-software-user-space/releases
